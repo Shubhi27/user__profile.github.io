@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: auto;
     position:fixed;
-    overflow: hidden;
+    overflow: auto;
   }
 }
 nav{
