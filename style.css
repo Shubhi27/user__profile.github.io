@@ -9,6 +9,7 @@ body{
     background-image: url("images/user_profile_mob.jpg")!important;
     background-repeat: no-repeat;
     background-size: auto;
+    position:fixed;
     overflow: hidden;
   }
 }
