@@ -1,16 +1,15 @@
 body{
  background-image: url("images/user_profile_background.jpg");
  background-repeat: no-repeat;
- background-size: 1536px auto;
- overflow-x: hidden;
+ background-size: cover;
+ overflow: hidden;
 }
 @media only screen and (max-width: 980px) {
   body {
     background-image: url("images/user_profile_mob.jpg")!important;
     background-repeat: no-repeat;
     background-size: auto;
-    position:fixed;
-    overflow: auto;
+    overflow: hidden;
   }
 }
 nav{
